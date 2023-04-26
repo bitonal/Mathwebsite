@@ -1,2 +1,2 @@
 # Mathwebsite
-create website using HTML plus CSS -tutor
+create website using HTML plus CSS -Tutorial
